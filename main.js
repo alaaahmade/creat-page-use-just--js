@@ -64,7 +64,6 @@ for(let i =1 ; i < 16; i++){
     span.textContent = i
     divs.appendChild(span)
     divs.appendChild(text)
-    console.log(divs)
     contain.appendChild(divs)
     span.style.fontSize = "25px"
     divs.style = `background-color :white;
